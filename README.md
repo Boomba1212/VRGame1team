@@ -1,2 +1,0 @@
-# VRGame1team
-white
